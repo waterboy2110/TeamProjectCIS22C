@@ -6,6 +6,13 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3E6E719018CD71B0003F1422 /* RestaurantsInfo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E6E718F18CD71B0003F1422 /* RestaurantsInfo.cpp */; };
+		3E6E719218CD71BA003F1422 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E6E719118CD71BA003F1422 /* main.cpp */; };
+		3E6E719718CD71E7003F1422 /* BinaryNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E6E719618CD71E7003F1422 /* BinaryNode.cpp */; };
+		3E6E719A18CD71FF003F1422 /* BianrySearchTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3E6E719918CD71FF003F1422 /* BianrySearchTree.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		3E8BA7CA18CD6D35006E7053 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -19,6 +26,17 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3E6E718D18CD7199003F1422 /* Team_Project.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; name = Team_Project.1; path = ../../../../../../Downloads/Team_Project.1; sourceTree = "<group>"; };
+		3E6E718E18CD71A7003F1422 /* RestaurantsInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RestaurantsInfo.h; path = ../../../../../../Downloads/RestaurantsInfo.h; sourceTree = "<group>"; };
+		3E6E718F18CD71B0003F1422 /* RestaurantsInfo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RestaurantsInfo.cpp; path = ../../../../../../Downloads/RestaurantsInfo.cpp; sourceTree = "<group>"; };
+		3E6E719118CD71BA003F1422 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = ../../../../../../Downloads/main.cpp; sourceTree = "<group>"; };
+		3E6E719318CD71C7003F1422 /* Head.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Head.h; path = ../../../../../../Downloads/Head.h; sourceTree = "<group>"; };
+		3E6E719418CD71D3003F1422 /* BinarySearchTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BinarySearchTree.h; path = ../../../../../../Downloads/BinarySearchTree.h; sourceTree = "<group>"; };
+		3E6E719518CD71DC003F1422 /* BinaryNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BinaryNode.h; path = ../../../../../../Downloads/BinaryNode.h; sourceTree = "<group>"; };
+		3E6E719618CD71E7003F1422 /* BinaryNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BinaryNode.cpp; path = ../../../../../../Downloads/BinaryNode.cpp; sourceTree = "<group>"; };
+		3E6E719818CD71F3003F1422 /* BianrySearchTree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BianrySearchTree.h; path = ../../../../../../Downloads/BianrySearchTree.h; sourceTree = "<group>"; };
+		3E6E719918CD71FF003F1422 /* BianrySearchTree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BianrySearchTree.cpp; path = ../../../../../../Downloads/BianrySearchTree.cpp; sourceTree = "<group>"; };
+		3E6E719B18CD7207003F1422 /* Restaurants-2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Restaurants-2.txt"; path = "../../../../../../Downloads/Restaurants-2.txt"; sourceTree = "<group>"; };
 		3E8BA7CC18CD6D35006E7053 /* TeamProjectCIS22C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TeamProjectCIS22C; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -52,6 +70,17 @@
 		3E8BA7CE18CD6D35006E7053 /* TeamProjectCIS22C */ = {
 			isa = PBXGroup;
 			children = (
+				3E6E719B18CD7207003F1422 /* Restaurants-2.txt */,
+				3E6E719918CD71FF003F1422 /* BianrySearchTree.cpp */,
+				3E6E719818CD71F3003F1422 /* BianrySearchTree.h */,
+				3E6E719618CD71E7003F1422 /* BinaryNode.cpp */,
+				3E6E719518CD71DC003F1422 /* BinaryNode.h */,
+				3E6E719418CD71D3003F1422 /* BinarySearchTree.h */,
+				3E6E719318CD71C7003F1422 /* Head.h */,
+				3E6E719118CD71BA003F1422 /* main.cpp */,
+				3E6E718F18CD71B0003F1422 /* RestaurantsInfo.cpp */,
+				3E6E718E18CD71A7003F1422 /* RestaurantsInfo.h */,
+				3E6E718D18CD7199003F1422 /* Team_Project.1 */,
 			);
 			path = TeamProjectCIS22C;
 			sourceTree = "<group>";
@@ -107,6 +136,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E6E719A18CD71FF003F1422 /* BianrySearchTree.cpp in Sources */,
+				3E6E719218CD71BA003F1422 /* main.cpp in Sources */,
+				3E6E719718CD71E7003F1422 /* BinaryNode.cpp in Sources */,
+				3E6E719018CD71B0003F1422 /* RestaurantsInfo.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -214,6 +247,7 @@
 				3E8BA7D718CD6D35006E7053 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
