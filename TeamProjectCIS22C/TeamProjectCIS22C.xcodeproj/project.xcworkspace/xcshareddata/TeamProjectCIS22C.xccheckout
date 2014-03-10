@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37E8E26B-E027-4BF5-BC8B-73948113A424</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TeamProjectCIS22C</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8B54AC9-2B04-41B3-8F56-05F36B9DB14F</key>
+		<string>https://github.com/waterboy2110/TeamProjectCIS22C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TeamProjectCIS22C/TeamProjectCIS22C.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8B54AC9-2B04-41B3-8F56-05F36B9DB14F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/waterboy2110/TeamProjectCIS22C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8B54AC9-2B04-41B3-8F56-05F36B9DB14F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8B54AC9-2B04-41B3-8F56-05F36B9DB14F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TeamProjectCIS22C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
